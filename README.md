@@ -1,2 +1,1 @@
-# www
-Resources for https://mergify.com
+This is Hackerone Bug Bounty Test
